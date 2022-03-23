@@ -26,7 +26,7 @@ SECRET_KEY = 'x1%t+0#%%2xw*qsvw%ut(uqz_$-=n_ypiqdh*4)$gyqc@xk(7('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [Creccles.pythonanywhere.com]
+ALLOWED_HOSTS = ['Creccles.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
